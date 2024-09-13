@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
     'O que é Python?',
-    'O Python é uma linguagem de programação'?
+    'O Python é uma linguagem de programação?
 )
 
 criaCartao(
@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'Programação',
     'O que é uma função bloco de codigo para que serve?',
-    'Uma função é um bloco de código que executa alguma tarefa'?
+    'Uma função é um bloco de código que executa alguma tarefa?
 )
 
 criaCartao(
