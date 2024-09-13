@@ -6,18 +6,18 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital do Japão?',
+    'A capital do japão e tokyo'
 )
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
+    'O que é uma função bloco de codigo para que serve?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se diz ola em Inglês?',
+    'Oi em ingles é HELLO (RELÔU)'
 )
